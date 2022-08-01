@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgba(61, 58, 53, 0.253);
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+    font-size: 30px;
+}
+
+.project-box-holder {
+    display: flex;
+    text-align: center;
+}
+
+.project-box-holder h3 {
+    text-align: center;
+}
+
+.project-box {
+    background-color: rgb(151, 116, 233);
+    margin: 10px;
+    padding: 10px;
+}
+
+.links a {
+    color: black;
+}
